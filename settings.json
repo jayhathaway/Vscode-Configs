@@ -1,0 +1,31 @@
+{
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "git.openRepositoryInParentFolders": "always",
+    "autoDocstring.docstringFormat": "sphinx-notypes",
+    "remote.autoForwardPortsSource": "hybrid",
+    "cmake.configureOnOpen": true,
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "cmake.showOptionsMovedNotification": false,
+    "editor.fontLigatures": false,
+    "editor.fontVariations": false,
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "workbench.colorCustomizations": {
+        "terminal.background": "#00000000"
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations"
+    ],
+    "vscode_vibrancy.opacity": 0,
+    "vscode_vibrancy.refreshInterval": 100,
+    "window.titleBarStyle": "custom",
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Dracula Theme",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "vim.smartRelativeLine": true,
+    "editor.lineNumbers": "relative",
+    "glassit.alpha": 220
+}
