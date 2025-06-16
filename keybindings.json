@@ -212,5 +212,9 @@
     "key": "ctrl-w c",
     "command": "workbench.action.closeActiveEditor",
     "when": "vim.mode == 'Normal' && (editorTextFocus || !inputFocus)"
+  },
+  {
+    "key": "alt+n",
+    "command": "latex-workshop.navigate-envpair"
   }
 ]
